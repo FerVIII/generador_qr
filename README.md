@@ -5,6 +5,7 @@ Aplicación en Python con **interfaz gráfica (Tkinter)** que permite generar c�
 Introduce la URL, presiona **Generador de QR**, y el código se mostrará en pantalla y se guardará como `qrcode.png`.
 
 ## Vista previa de la aplicación
+*Ejemplo de QR generado por el programa que enlaza a la página del máster donde estoy cursando.*
 ![Generador QR](images/imagen_1.png)
 
 ## Requisitos
