@@ -53,5 +53,6 @@ Generación de códigos QR dinámicos con la librería qrcode.
 
 Validación de entradas y manejo de errores con messagebox.
 
-[Generador QR](images/imagen_1.png)
+![Generador QR](images/imagen_1.png)
+
 
